@@ -61,6 +61,7 @@ const Home = () => {
             <Title>{t("header")}</Title>
             <Paragraph>{t("subHeader")}</Paragraph>
           </Typography>
+          <p>repo https://github.com/DavidWells/react-i18next-advanced</p>
         </Col>
       </Row>
       <Row>
