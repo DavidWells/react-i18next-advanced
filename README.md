@@ -1,6 +1,6 @@
 # react-i18n-app
 
-Created with CodeSandbox
+Created with CodeSandbox https://codesandbox.io/s/github/DavidWells/react-i18next-advanced
 
 https://react-i18next-advanced.netlify.app/
 
