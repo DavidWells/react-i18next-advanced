@@ -1,2 +1,2 @@
-# react-i18next-advanced
+# react-i18n-app
 Created with CodeSandbox
